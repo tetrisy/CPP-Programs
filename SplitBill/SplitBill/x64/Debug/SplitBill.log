@@ -1,3 +1,0 @@
-﻿  SplitBill.cpp
-C:\Users\szymo\OneDrive\Desktop\CPP-Programs\SplitBill\SplitBill.cpp(26,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  SplitBill.vcxproj -> C:\Users\szymo\OneDrive\Desktop\CPP-Programs\SplitBill\x64\Debug\SplitBill.exe
