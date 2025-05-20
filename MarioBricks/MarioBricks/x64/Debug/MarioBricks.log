@@ -1,0 +1,4 @@
+﻿  MarioBricks.cpp
+C:\Users\szymo\OneDrive\Desktop\Nauka Programowania\C# Player\MarioBricks\MarioBricks.cpp(22,11): error C3861: 'print_space': identifier not found
+C:\Users\szymo\OneDrive\Desktop\Nauka Programowania\C# Player\MarioBricks\MarioBricks.cpp(23,3): error C3861: 'print_row': identifier not found
+C:\Users\szymo\OneDrive\Desktop\Nauka Programowania\C# Player\MarioBricks\MarioBricks.cpp(25,3): error C3861: 'print_row': identifier not found
